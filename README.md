@@ -20,6 +20,5 @@ Welcome to my GitHub profile. I'm a passionate software engineer with a deep lov
 
 ## 📬 Connect with Me
 - **LinkedIn**: Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-bilal24443/)
-- **Fiverr**: Offering development services with a focus on AI agents and intelligent systems.
 
 Feel free to explore my projects, raise issues, or even contribute. Let's build something amazing together!
